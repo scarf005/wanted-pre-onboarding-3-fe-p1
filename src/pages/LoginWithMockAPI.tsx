@@ -48,6 +48,7 @@ const LoginWithMockAPI = () => {
         User info
       </h2>
       {/* TODO: 유저 정보를 보여주도록 구현하세요. 필요에 따라 state나 다른 변수를 추가하세요. */}
+      {JSON.stringify({username: 'blueStragglr'})}
     </div>
   </div>)
 }
